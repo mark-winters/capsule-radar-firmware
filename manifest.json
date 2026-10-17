@@ -1,23 +1,15 @@
 {
  "channels": {
   "beta": {
-   "build": 6,
-   "sha256": "faf7f8417db1024555743fbc98a1439a2b5071ccd4dca424c8c151c0ce5786c4",
-   "sig": "j7pyLTiFJB3iwvmbW8lvt5N9wpp3GXAR+5KxY9QEGhHDclerB0SHLF1UubkXAqXZI3PQ6eJqUstS+Lyu1hCIqOaX5LIlCeyPhIv+zPmzdkYNflRqpeNiV9IIDyoMoOywoKpQpNea+bjZz2mmPNxVulxrDcuzmeTr5HWc5jpMrLnRahTNnO6eny0ZQatSceu9MHfU2VCyb7wPpFZkiXBqRgILviYySWtlpAIfg24DLe5vCSeJZnmOZWWT6LFnNY1hQmvwlqsnmIKlU+JK7hOS1g3q5YgFJ1peEkjHqJO70BSESx8lhWHdF9QPy0aAzwWF+fZIfBkjTlnjqxQbGzSU+A==",
-   "size": 3149200,
-   "url": "https://mark-winters.github.io/capsule-radar-firmware/fw/JaysRadar-6.bin",
+   "build": 7,
+   "sha256": "e4b409bb96a20333b3eb89572b3ca79a849cd727eadec1cce84919a844b82ca8",
+   "sig": "k+UbT2cL9bLtvP1r3IGsTQZrRaEFjF2+fG+upRY88mSxzHHOxL/rNiZKy8lcFBC1qcU+KDCavBKzh2vzS+mpAIfOX2fSLE9U4hVfp0jqGtkr+ceeaRrO93w5PxXjAzlsDD9EMvEg6/S49BZdCdJPmV+d1/rm3bvlNkP4KRuB6vifuMkfBWkM0zQZeZOA2KbwRgdQe8FGf0yK8sN7LJ3ioxRArtgeyXjdNdR9ILTP350Ty/GJz0QHstbug6AQAevnTLqVcx19C0BWTYWOm2Fc9HNewPKrcALRpQsDIOj8QxG92dHxKb1ARPEpqAPZJC4i7+BBqiIlsB/9/ReL9809nA==",
+   "size": 3149968,
+   "url": "https://mark-winters.github.io/capsule-radar-firmware/fw/JaysRadar-7.bin",
    "version": "1.4.8"
   }
  },
  "history": {
-  "1": {
-   "build": 1,
-   "sha256": "9a62be84df567ebd1623f85b5dfd2c1c8fc1c75fefdbc3f42931ef68546843c1",
-   "sig": "c9CzTQxbI3GPR1gYtlhzRrBBWzNnZZOYGSEFbOJvf3jWd3SL6NQIfBTzbqAma1JTxcrQRqoawUOqecN3ZJk3fA+An911pmqXLnbxT7/XeYB5PYwO+X8Rcf7uvwzZibjgv6qFS4DU9fD0qTQdd6hsp4vSIKJTjRSztSS1OV9hTmHrGiXUhw3AVuCSfPRwVWbD2jFBZUeVd4AEYANJvfH8O2Hh3TvbCFspRg7Z+7cz0tpHOmeQhcHBPEGs+sgd7oCJviy1h6kOV1YXDPdfSQuwAJp46oH8OBo1Jcw536iw51WO+VAKC/ugK9mnRYWxZPLOGtdT4hDLzORo9/aQyYnBVg==",
-   "size": 3131104,
-   "url": "https://mark-winters.github.io/capsule-radar-firmware/fw/JaysRadar-1.bin",
-   "version": "1.4.8"
-  },
   "2": {
    "build": 2,
    "sha256": "4ee251132d0a9fd0bc6e1d5f8d3772e0d1e7f1b3749b37ed8edf51b0b31d7411",
@@ -56,6 +48,14 @@
    "sig": "j7pyLTiFJB3iwvmbW8lvt5N9wpp3GXAR+5KxY9QEGhHDclerB0SHLF1UubkXAqXZI3PQ6eJqUstS+Lyu1hCIqOaX5LIlCeyPhIv+zPmzdkYNflRqpeNiV9IIDyoMoOywoKpQpNea+bjZz2mmPNxVulxrDcuzmeTr5HWc5jpMrLnRahTNnO6eny0ZQatSceu9MHfU2VCyb7wPpFZkiXBqRgILviYySWtlpAIfg24DLe5vCSeJZnmOZWWT6LFnNY1hQmvwlqsnmIKlU+JK7hOS1g3q5YgFJ1peEkjHqJO70BSESx8lhWHdF9QPy0aAzwWF+fZIfBkjTlnjqxQbGzSU+A==",
    "size": 3149200,
    "url": "https://mark-winters.github.io/capsule-radar-firmware/fw/JaysRadar-6.bin",
+   "version": "1.4.8"
+  },
+  "7": {
+   "build": 7,
+   "sha256": "e4b409bb96a20333b3eb89572b3ca79a849cd727eadec1cce84919a844b82ca8",
+   "sig": "k+UbT2cL9bLtvP1r3IGsTQZrRaEFjF2+fG+upRY88mSxzHHOxL/rNiZKy8lcFBC1qcU+KDCavBKzh2vzS+mpAIfOX2fSLE9U4hVfp0jqGtkr+ceeaRrO93w5PxXjAzlsDD9EMvEg6/S49BZdCdJPmV+d1/rm3bvlNkP4KRuB6vifuMkfBWkM0zQZeZOA2KbwRgdQe8FGf0yK8sN7LJ3ioxRArtgeyXjdNdR9ILTP350Ty/GJz0QHstbug6AQAevnTLqVcx19C0BWTYWOm2Fc9HNewPKrcALRpQsDIOj8QxG92dHxKb1ARPEpqAPZJC4i7+BBqiIlsB/9/ReL9809nA==",
+   "size": 3149968,
+   "url": "https://mark-winters.github.io/capsule-radar-firmware/fw/JaysRadar-7.bin",
    "version": "1.4.8"
   }
  },
